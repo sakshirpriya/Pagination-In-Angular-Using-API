@@ -1,0 +1,16 @@
+h3{
+    margin-right: 20px;
+    text-align: center;
+    
+}
+.image{
+    height:40em; background-size:cover; width:auto;
+    background-image:url('https://cdn.pixabay.com/photo/2017/07/10/18/47/background-2491008_960_720.png');
+    background: position 50% 50%;
+  }
+  .user{
+    width: 40%;
+    margin-left: 45%;
+    margin-right: 30%
+      
+  }
